@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "W": {
+      "item": "minecraft:wheat"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "pattern": [
+    "WRW",
+    "RWR",
+    "WRW"
+  ],
+  "result": {
+    "item": "minecraft:target"
+  },
+  "show_notification": true
+}
